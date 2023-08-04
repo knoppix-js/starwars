@@ -11,7 +11,7 @@ export const CardDetail = ({
 }: CardDetailProps) => {
   return (
     <>
-      <Typography variant="h5" sx={{ mb: 5 }}>
+      <Typography variant="h5" sx={{ mb: 3 }}>
         {name}
       </Typography>
       <Grid container>
